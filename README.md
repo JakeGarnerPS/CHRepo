@@ -1,6 +1,8 @@
 # CHRepo
 To run this project. 
 
+Unzip project. 
+
 Open project with your coding application. I used IntelliJ. 
 
 - Build/Rebuild the project. 
